@@ -23,6 +23,8 @@ Once the repository has been cloned, run npm start to start the app. Once the ap
 ![](src/img/social-network01.png)
 ![](src/img/social-network02.png)
 
+[Instructional Video](https://drive.google.com/file/d/1IDcLm-lzTwXrBHI1wge8Gw_y1bz9LUT2/preview)
+
 ---
 
 ## License
