@@ -4,9 +4,8 @@
 
 ## Description
 
-A website designed to search for comics by hero or comic name, and save them to your user profile.
+A social network app in which you create, delete or update a user profile. Once a profile has been created, you can add, delete or update thoughts as a user and add, delete or update reactions to thoughts that other users have created. This app also allows you to add or remove friends as a user.
 
-Click to visit the [Comic Collector](https://comic-collector-ucf.herokuapp.com/)
 
 ---
 
@@ -20,7 +19,7 @@ Click to visit the [Comic Collector](https://comic-collector-ucf.herokuapp.com/)
 
 ## Usage
 
-Once on the website, create a new user profile in order to save any comics to your collection. You can click on the digitial comic link to puchase the comic digitally.
+Once the repository has been cloned, run npm start to start the app. Once the app has been started, you can use the routes in insomnia core to add, delete, or update users, thughts, reactions or friends. 
 
 ![](public/IMG/comic-collector001.png)
 
@@ -48,10 +47,10 @@ copies or substantial portions of the Software.
 
 For any questions please contact me directly.
 
-Email: <odupree1988@gmail.com>, <salas.lorenzo4@gmail.com>
+Email: <odupree1988@gmail.com>
 
-GitHub: [odupree1988](https://github.com/odupree1988), [Salas4969](https://github.com/Salas4969)
+GitHub: [odupree1988](https://github.com/odupree1988)
 
-Made By Owen Dupree & Lorenzo Salas 2021
+Made By Owen Dupree 2021
 
 ---
