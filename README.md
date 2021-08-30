@@ -6,7 +6,6 @@
 
 A social network app in which you create, delete or update a user profile. Once a profile has been created, you can add, delete or update thoughts as a user and add, delete or update reactions to thoughts that other users have created. This app also allows you to add or remove friends as a user.
 
-
 ---
 
 ## Table of Contents
@@ -19,9 +18,10 @@ A social network app in which you create, delete or update a user profile. Once 
 
 ## Usage
 
-Once the repository has been cloned, run npm start to start the app. Once the app has been started, you can use the routes in insomnia core to add, delete, or update users, thughts, reactions or friends. 
+Once the repository has been cloned, run npm start to start the app. Once the app has been started, you can use the routes in insomnia core to add, delete, or update users, thughts, reactions or friends.
 
-![](public/IMG/comic-collector001.png)
+![](src/img/social-network01.png)
+![](src/img/social-network02.png)
 
 ---
 
